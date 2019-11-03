@@ -1,0 +1,3 @@
+﻿  ClientLab4.cpp
+C:\Users\Johan\source\repos\ClientLab4\ClientLab4\ClientLab4.cpp(164,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ClientLab4.vcxproj -> C:\Users\Johan\source\repos\ClientLab4\Debug\ClientLab4.exe
